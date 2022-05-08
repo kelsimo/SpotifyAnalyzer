@@ -1,7 +1,7 @@
 # This project was created by me. Reach out to me directly on GitHub for any inquiries; please do not use without my expressed consent.
 
 # SpotifyAnalyzer
-While it is one of the most important events of the year, receiving your Spotify Wrapped playlist requires waiting until the end of the year, and it doesn’t consider the entirety of your liked songs – only the songs you listened to in the past 365 days. While we can technically use the Spotify API (and spotipy library) to analyze all of our music data,  it doesn’t work for Python 3. So, this is a very simple spotify analysis app that analyzes your playlist metrics for Python 3+.
+While it is one of the most important events of the year, receiving your Spotify Wrapped playlist requires waiting until the end of the year, and it doesn’t consider the entirety of your liked songs – only the songs you listened to in the past 365 days. While we can technically use the Spotify API (and spotipy library) to analyze all of our music data,  I wanted to create my own. So, this is a very simple spotify analysis app that analyzes your playlist metrics for Python 3+.
 
 #You will need:
 1. Your Spotify playlist of choice:
